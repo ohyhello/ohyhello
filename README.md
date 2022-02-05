@@ -16,5 +16,6 @@
 </p>
 
 <p align="center">❤ I'm LOVE Anime / Manga, tech-otaku save the world</p>
+
 ##### Genshin Impact
-![](https://genshin-card.getloli.com/{9}/{213994785}.png)
+[![](https://genshin-card.getloli.com/9/213994785.png)](https://genshin-card.getloli.com)
