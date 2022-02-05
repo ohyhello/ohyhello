@@ -18,7 +18,7 @@
 <p align="center">❤ I'm LOVE Anime / Manga, tech-otaku save the world</p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@ohyhello"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ohyhello"></a>
 
 </p>
 
